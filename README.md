@@ -19,12 +19,12 @@ The flow of this *project*, first EDA (*Exploratory Data Analysis*) to find out 
 
 Strength
 
-    1. Has an accuracy of 77% (above 70%) which means that this model can classify *tweets* well.
-    2. This model is not affected by *treshold*
-    3. Other than `not_cyberbullying` class and `cyberbullying` class, the prediction error is quite low (in the range of 100 tweets down. Notes: the total dataset is 44.000 tweets)
+1. Has an accuracy of 77% (above 70%) which means that this model can classify *tweets* well.
+2. This model is not affected by *treshold*
+3. Other than `not_cyberbullying` class and `cyberbullying` class, the prediction error is quite low (in the range of 100 tweets down. Notes: the total dataset is 44.000 tweets)
 
 Weaknesses
 
-    1. The model is less accurate in predicting the `not_cyberbullying` class and `cyberbullying` class.
-    2. Has a long *training* time if you want to update the data 
+1. The model is less accurate in predicting the `not_cyberbullying` class and `cyberbullying` class.
+2. Has a long *training* time if you want to update the data 
 
