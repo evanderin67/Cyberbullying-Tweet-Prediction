@@ -6,8 +6,9 @@ This project aims to built, test and select a Natural Language Processing model 
 
 This repository consists of several files, namely :
 
+- Folder `deployment` = Contains files used for *deployment* to `HuggingFace` (contains models, python applications etc.)
 - `notebook_Cyberbullying-Tweet-Prediction.ipynb` = This file is the main *notebook* used to explore dataset and built model
-- `inferencing_Cyberbullying-Tweet-Prediction.ipynb`= *Notebook* used for *testing inference*. Inferencing is done on a separate *notebook* to prove that the model can run on a *notebook* that is *clean* of variables**
+- `inferencing_Cyberbullying-Tweet-Prediction.ipynb`= *Notebook* used for *testing inference*. Inferencing is done on a separate *notebook* to prove that the model can run on a *notebook* that is *clean* of variables
 - `url.txt` = Deployment URL to HuggingFace
 
 # Brief Summary of Project
